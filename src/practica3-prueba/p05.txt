@@ -1,0 +1,55 @@
+borra america? -> true
+accident:accidente
+arm:brazo
+avenue:avenida
+best:mejor
+duck:pato
+king:rey
+lamp:lámpara
+lazy:perezoso
+long:largo
+newspaper:periódico
+perhaps:a lo mejor
+photograph:fotografía
+then:entonces
+useful:útil
+borra uSeFuL? -> true
+accident:accident
+arm:bras
+avenue:avenue
+best:meilleur
+duck:canard
+king:roi
+lamp:lampe
+lazy:paresseux
+long:long
+newspaper:journal
+perhaps:peut-être
+photograph:photographie
+then:alors
+borra LAZY? -> true
+accident:
+arm:
+avenue:
+best:
+duck:
+king:
+lamp:
+long:
+newspaper:
+perhaps:
+photograph:
+then:
+borra doctor? -> false
+accident:incidente
+arm:braccio
+avenue:viale
+best:migliore
+duck:anatra
+king:re
+lamp:lampada
+long:lungo
+newspaper:giornale
+perhaps:forse
+photograph:fotografia
+then:poi

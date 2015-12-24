@@ -1,0 +1,30 @@
+---- Muestra 4 ----
+accident:incidente:accidente:accident
+America:America:América:L'Amérique
+arm:braccio:brazo:bras
+avenue:viale:avenida:avenue
+---- Muestra 8 ----
+accident:incidente:accidente:accident
+America:America:América:L'Amérique
+arm:braccio:brazo:bras
+avenue:viale:avenida:avenue
+best:migliore:mejor:meilleur
+duck:anatra:pato:canard
+king:re:rey:roi
+lamp:lampada:lámpara:lampe
+---- Muestra 16 ----
+accident:incidente:accidente:accident
+America:America:América:L'Amérique
+arm:braccio:brazo:bras
+avenue:viale:avenida:avenue
+best:migliore:mejor:meilleur
+duck:anatra:pato:canard
+king:re:rey:roi
+lamp:lampada:lámpara:lampe
+lazy:pigro:perezoso:paresseux
+long:lungo:largo:long
+newspaper:giornale:periódico:journal
+perhaps:forse:a lo mejor:peut-être
+photograph:fotografia:fotografía:photographie
+then:poi:entonces:alors
+useful:utile:útil:utile

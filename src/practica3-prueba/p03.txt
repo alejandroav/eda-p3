@@ -1,0 +1,4 @@
+encuentra america? -> 3
+encuentra uSeFuL? -> 3
+encuentra LAZY? -> 1
+encuentra doctor? -> -7

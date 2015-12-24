@@ -1,0 +1,32 @@
+inserta lay? -> true
+inserta blouse? -> true
+inserta about? -> true
+inserta able? -> true
+inserta accept? -> true
+inserta please? -> true
+inserta normal? -> true
+inserta toy? -> true
+inserta wrong? -> true
+inserta wrong? -> false
+inserta you? -> true
+inserta yet? -> true
+inserta your? -> true
+inserta himself? -> true
+inserta December? -> true
+inserta PLEASE? -> true
+inserta toy? -> true
+inserta yet? -> false
+able:capable:capaz:capaz
+about:sur:sobre:sobre
+accept:accepter:aceptar:aceitar
+blouse:chemisier:blusa:blusa
+December:décembre:diciembre:dezembro
+himself:lui-même:el mismo:ele mesmo
+lay::dejar:
+normal:normal::
+please::por favor:por favor
+toy:jouet:juguete:
+wrong:faux:equivocado:errado
+yet:déjà:ya:ainda
+you:tu:tu:tu
+your:ton:tu:vosso
